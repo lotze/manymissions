@@ -1,0 +1,323 @@
+// Legal argument
+Go to the supply room and find the gavel; bring it here with you. You are the judge. Bang your gavel to bring things to order, call for your lawyers and jury, then adjudicate the case.
+You are part of a 3-person jury. (x3)
+You are a lawyer making the case, "Tacos are not sandwiches."
+You are a lawyer making the case, "Tacos are sandwiches."
+
+// Balloon Race
+Go to the supply room and find the bag of ballons; bring it here and start setting them out. (-2m)
+Start blowing up balloons. Stop when you have filled 10.
+Find someone blowing up balloons. You are in a race, and you are behind. Your goal is to blow up 10 balloons before they do.
+Find the competition and narrate their progress to 10, in an old-timey radio announcer voice.
+
+// Godzilla
+Find cardboard, tape, and markers, and bring them here. (-2m)
+Use the supplies to make tiny cardboard buildings. Try to make at least 5 in 10 minutes. (x3)
+Take the tiny buildings that people have made and lay them out as a city. (10m)
+When you see someone laying out a city, narrate the story of the city as though you were a movie voiceover. (10m)
+You are Godzilla. Lay waste to the city. (13m)
+
+// Logical Doors
+Go to the supply room and find the treasure, putting it in a box, then bring the box here. You always tell the truth. Your friend always lies. (-1m)
+Go to the supply room and find the scorpion, putting it in a box, then bring the box here. You always lie. Your friend always tells the truth. (-1m)
+After asking questions of the two people holding the boxes, you may open one box. One box contains a treasure.
+
+// Logical Ferry
+You are a goat. Make baa noises. You need to cross the river. If you are left alone with the cabbage, eat it.
+You are a wolf. Make wolf noises. You need to cross the river. If you are left along with the goat, pretend to eat them (do not actually eat them).
+Go to the supply room and find the cabbage, bring it here. You are a cabbage. Make cabbage noises. You need to cross the river. (-2m)
+You are the ferryman. Your boat holds two people at a time, plus yourself. Ask who needs to cross the river, and try to get them all across safely.
+
+// Punch and Pie
+Get disposable plates from the kitchen and bring them here.
+Get disposable forks from the kitchen and bring them here.
+Bring the punch from the kitchen.
+Bring the pie from the kitchen.
+Bring a serving knife and set it by the pie.
+Call out, "Who wants punch?" (1m)
+When someone calls out "Who wants punch?" respond "_We_ want punch!" (x5) (1m)
+After people say they want punch, call out, "Who wants pie?" (1m)
+When someone calls out "Who wants pie?" respond "_We_ want pie!" (x5) (1m)
+When people say they want punch and pie, respond, "Then there shall be punch and pie!" and begin serving punch and pie. (1m)
+
+kickoff // Gathering A
+Find your other two members of Group A. Introduce yourself with your name, pronouns, favorite ice cream flavor, something surprising about yourself, and something you have in common with Thomas. (x3)
+
+kickoff // Gathering B
+Find your other two members of Group B. Introduce yourself with your name, pronouns, favorite ice cream flavor, something surprising about yourself, and something you have in common with Thomas. (x3)
+
+kickoff // Gathering C
+Find your other two members of Group C. Introduce yourself with your name, pronouns, favorite ice cream flavor, something surprising about yourself, and something you have in common with Thomas. (x3)
+
+kickoff // Gathering D
+Find your other two members of Group D. Introduce yourself with your name, pronouns, favorite ice cream flavor, something surprising about yourself, and something you have in common with Thomas. (x3)
+
+kickoff // Gathering E
+Find your other two members of Group E. Introduce yourself with your name, pronouns, favorite ice cream flavor, something surprising about yourself, and something you have in common with Thomas. (x3)
+
+// Water Striders
+Find the book "Joyful Noise" at the supply room. Open it to the poem "Water Striders". You are the right water strider. Once you find your left water strider, read the poem aloud together.
+You are the left water strider. Find your right water strider with the book "Joyful Noise" and read a poem aloud together. (1m)
+When you see two people preparing to read from the book "Joyful Noise", clap your hands loudly three times and proclaim, "Bugs!"
+
+// Grasshoppers
+Find the book "Joyful Noise" at the supply room. Open it to the poem "Grasshoppers". You are the right grasshopper. Once you find your left grasshopper, read the poem aloud together.
+You are the left grasshopper. Find your right grasshopper with the book "Joyful Noise" and read a poem aloud together. (1m)
+When you see two people preparing to read from the book "Joyful Noise", clap your hands loudly three times and proclaim, "Bugs!"
+
+// Temperature lights (x2)
+Take one of the tealights. If you would like it to be warmer, turn it on. If you would like it to be cooler, turn it off. Put it on the table. (x12)
+Look at the tealights on the table. If there are more tealights on than off, turn up the temperature; if there are more off then on, turn it down. (3m)
+
+// Bookshelf inquiries (x3)
+Write a question on the back of this card and slip it in between books on the bookshelf, halfway peeking out.
+Find a notecard peeking out between books on the bookshelf. Write an answer to the question on the back, then put the card in the drawer under the television.
+
+// Bookshelf puzzle
+Solve one of the bookend puzzles on the bookshelf (feel free to ask others to help). Write your answer on the back of this card, then put it in the drawer under the television.
+
+// Selfies (x3)
+Take three selfies. Share your favorite to the Google Photos folder on the Google Calendar event. (x2)
+Find someone taking a selfie and ask to take a photo together. Share it to the Google Photos folder on the Google Calendar event. (x2)
+
+// Photos with Thomas (x6)
+Find Thomas and take a photo of the two of you together. Email it to Thomas with a note saying something you appreciate about them.
+
+// A toast!
+Call out "A toast! A toast!"
+When toasts are being made, make a toast to Thomas. (x3)
+Go to the kitchen and make a piece of toast, then bring it here here. When toasts are called for, brandish your piece of toast. (-5m)
+
+// Iocane powder
+Sit down. Tell everyone one of your favorite Princess Bride quotes. If you don't have one, find someone else to give this card to.
+Fill two drinks. Wait for someone to quote the Princess Bride. Put down the drinks, one in front of each of you. Tell them the game has begun, and it ends when they choose and you both drink. After they choose, tell them they chose wrong, and laugh for a moment before falling to the table. After a moment, wkae up, and remember out loud that neither of the drinks was poisoned. (-3m)
+
+// Time Loop
+Whenever someone asks about their stuffed goose, point to the person holding the stuffed goose and say, "Look! There it is!" (this may happen multiple times)
+You are stuck in a time loop. Walk to [Y] and pick up the goose, then go to [X]. If someone asks for the goose, give it to them, then -- unless someone tells you to let it go -- follow them. Pick up the goose when they look away and return to [X]. Repeat.
+You are stuck in a time loop. Walk to [X] and -- unless someone tells you it's time to let it go -- ask, "Has anyone seen my stuffed goose?" When you find it, return it to the [Y], look away for a few moments, then look back. If the goose is gone, return to [X] and repeat.
+There is a time loop happening. After the third time it happens, tell the person, "I'm sorry, my friend. It's time to let it go." to break the loop.
+
+// Next Batch (2:00pm)
+Remove the lid marked "Not Available Yet" from the "3:00" bin.
+Announce to those assembled, "3pm cards are now available!" (3x)
+
+// Next Batch (3:00pm)
+Remove the lid marked "Not Available Yet" from the "4:00" bin.
+Announce to those assembled, "4pm cards are now available!" (3x)
+
+// Next Batch (4:00pm)
+Remove the lid marked "Not Available Yet" from the "5:00" bin.
+Announce to those assembled, "5pm cards are now available!" (3x)
+
+// You're Older Than You've Ever Been
+Sing the opening verse of "Older" ("You're older than you've every been, and now you're even older; and now you're even older; and now you're even older. You're older than you've every been, and now you're even older; and now you're even older; and now you're older still."). Repeat it twice, for a total of 3 times. If you do not know the tune, pass this card to someone who does, or Google it.
+After someone sings the opening verse of "Older" (ending with "and now you're older still"), join them in singing it 2 more times. (2x)
+After people join in singing "Older" (ending with "and now you're older still") a second time, join them in singing it one last time. (5x)
+
+// Baron Von Munchhausen (3x)
+Find your two adventure partners. Clasp hands warmly and make sure everyone knows each other's names. Together, tell the outlandish and impossible story of how you all met. Help make sure it is accurate by adding more over-the-top details. Once the story reaches its dramatic conclusion, to end the story, someone says, "And we've been friends ever since!" (3x)
+
+// Timed maze solving (5x)
+Bring the small whiteboard and marker from the supply room here. Ready a stopwatch on your phone. When the contestants are ready, shout "Go!" and start the timer. When they are done, record their names and time on the whiteboard, then return the whiteboard.
+Pick up an envelope marked M from the supply room and bring it here. You may not look at your partner's paper, nor show them your paper. But they may verbally help you. When ready, open your envelope and solve the maze. No crossing walls (of course).
+Pick up an envelope marked S from the supply room and bring it here. You may not look at your partner's paper or what they are writing, nor show them your paper. When ready, open your envelope and try to be helpful (without looking or showing).
+
+// Thomas is great (3x)
+Find someone to write on the back of this card something they like about Thomas (a quality about them). Find them again in 5 minutes, take a photo of them with the card, and send it to Thomas. (4x)
+
+large rolling // Zombies
+Find yourself in a 'trance' -- speak in a foreign or gibberish language for the next several minutes. (x8)
+Gather the zombies together and guide them to make a tunnel with their arms. (2m)
+Hide in the tunnel. (3m)
+You're an evangelical doctor. Tell a group of zombies that they're healed. (4m)
+As the time approaches, gather a crew and bring them. Tell them to watch and, when the zombies are healed, to applaud. (3m)
+
+// Spartacus
+Loudly proclaim that the generosity of the hosts is such that there will be punch and pie, with the one condition that everyone identify the person known as Spartacus. Once you have chosen a Spartacus, bring them with you to the kitchen to help serve punch and pie.
+When someone calls out for Spartacus, claim to be Spartacus. (x10)
+
+anywhere // Eyeliner Pencil
+Get the eyeliner pencil from the supply room and bring it here. You are a temporary tattoo artist. Offer to draw temporary tattoos on people.
+Think of something you could imagine yourself getting as a temporary tattoo. When you find the temporary tattoo artist, ask them to draw it on you. (x3)
+
+risky large // Yogic Channeling
+For a minute, imagine a white light filling the room and pervading your body with peace. Then snap your fingers three times and look around. (x8)
+
+foreshadowing anywhere // Backstroke
+Pretend to do the backstroke across the room back and forth while continuing your conversation. (x3)
+When you see someone doing the backstroke, call out, "Watch out for the shark!"
+Find the shark from the supply room and secretly bring it back here. When you hear someone say, "Watch out for the shark!", have the shark attack someone doing the backstroke.
+
+anywhere risky // Noah
+You are Noah. Identify an ark and tell people about it, thank everyone who comes on board.
+Help Noah load his ark with at least 3 pairs of animals.
+Pretend you are a goldfish. (x2)
+Pretend you are a monkey. (x2)
+Pretend you are an elephant. (x2)
+
+large risky // Massage
+If you are feeling tense, ask for a massage. Otherwise, offer a massage. (x4)
+
+// Stylish
+Find someone whose outfit you like and compliment them on it. Try not to let them know it's because of a card. (x3)
+
+large rolling // Lantern
+Get a lantern from the supply room, bring it here and turn it on.
+When you see someone bring a light, go and kneel in front of it. (x3)
+When you see someone bring a light, go to it and give a short speech on the value of light, then tell everyone gathered to go with the light.
+
+intimate rolling // Hugs
+If you would like a hug, close your eyes and stand in the center of the room and HOPE. Don't give up hope! Or, give this card to someone else.
+If you would like to give a hug, find someone with their eyes closed in the center of the room and give them a hug. Say, "thanks for believing!" Or, give this card to someone else. (1m)
+
+large rolling // Thumb Wrestling
+Form a circle of people thumb wrestling each other. Find your wrestling partners by holding your thumb up high.  (x4)
+There is a thumb wrestling competition going on. Declare the winners.
+Gather around the circle of thumb wrestlers and when they start, make load groaning, wrestling noises in time with each "wrestling match", as though you yourself were actually wrestling. (x2)
+
+seated rolling // Freud
+Share a dream you had with the person sitting with their legs crossed.
+Sit with your legs crossed, waiting for a story. When you hear the story, offer interpretations in a Freudian manner.
+
+finale // Birthday Song
+You are one of two emcees for the final song. Gather people and conduct them as they sing. Try to keep everyone together. (x2)
+When the emcees gather everyone to start singing, sing Happy Birthday to Thomas. When everyone finishes, applaud. (x7)
+When the emcees gather everyone to start singing, sing the alphabet song with confidence. When everyone finishes, applaud. (x3)
+When the emcees gather everyone to start singing, sing Twinkle Twinkle Little Star with confidence. When everyone finishes, applaud. (x3)
+When the emcees gather everyone to start singing, sing "You're Older than You've Ever Been" with confidence. When everyone finishes, applaud. (x3)
+
+// Sock Talk
+Gather a sock from the supply room and offer them to anyone who might need them.
+You are here to be interviewed by a distinguished journalist. Hold your hands one in the other until the interviewer finds you.
+Get a sock from someone offering and use it as a sock puppet. Find the person holding one hand in the other, and have the sock puppet interview them about their work.
+Watch the interview. (x3)
+
+// Jumping Jacks
+Whistle a note loudly.
+When you hear someone whistle, start doing 20 jumping jacks.
+When you see someone doing jumping jacks, count them in the style of "The Count" from Sesame St. (x2)
+When you hear the number 10, should "Halfway there! You can do it!" (x2)
+When you hear the number 20, cheer loudly. (x3)
+
+// Celebrities
+Turn on the flash on your camera. Find the people wearing sunglasses, be very excited and take photos of them with flash. (2m) (x3)
+Get a pair of sunglasses from the supply room and put them on. Come here and act cool with the other people wearing sunglasses, until you're hustled away from the crowd. (x3)
+You are a bodyguard. Protect the VIPs with sunglasses. If you see flashes going off, safely lead the VIPs away together. (x4)
+
+// Umbrella
+Bring an umbrella from the supply room. Offer it around.
+Accept the umbrella when offered. Open it above you.
+Prepare by getting a cup of water beforehand. When you see an umbrella open, run up and pour it on the umbrella. (x4)
+If you see a mess, help clean it up. (x2)
+
+risky large // Spies
+Every time you hear the work "spy", duck and cover. (x5)
+You are a spy for the Russians. No one can know your secret! Find Dmitri Ilych Vadovsky and try to get the nuclear codes from them. If you are outed, retreat.
+Act conspicuously Russian. For the next several minutes, you are drunken lord Lmitri Ilych Vadovsky. If you meet someone you suspect is a spy, yell "Spy! Spy!"
+See if you can find the spy. Look around suspiciously. Hide behind corners. (x3)
+
+large // Bell
+Get a bell from the supply room. Each time people touch fingertips, ring it. (x2)
+Gather together and find something interesting together, then all point at it. (x8)
+Find people pointing. Touch each fingertip. (x2)
+
+// Flower
+Take a flower from the supply room and give it to someone else here. Pass this card with the flower.
+Look for a flower being passed around the room. Take it outside and hand it to a passing stranger. (+2m)
+
+// Juggling
+Go to the supply room and retrieve three juggling balls. Bring them here.
+Find someone with juggling balls. Help them learn to juggle.
+
+large // The Mind
+Get everyone in the room to fall into total silence.
+Get everyone in the room to play The Mind: say the numbers from 1 up to 10, in order, without anyone saying two numbers in a row or two people both saying a number. If either of those happens, start over. (x3)
+Whenever someone says the number 5, offer them a high five.
+Whenever people do a high five, clap for them.
+Whenever you hear the number 7, jump.
+Whenever someone jumps, call out a number.
+
+kickoff	large // Ride the Train
+Cue up "Ride the Train" by the Quad City DJs and start it playing on the speakers.
+You are the engine. When the music starts, pump one of your arms up and down and start moving around and singing along. Continue until the song ends.
+Find the person or people singing "Ride the Train". Place your hands on this person's shoulders, or the shoulders of the person at the end of the line. Sing along! (x9)
+
+// Egg Juggling
+Get three eggs from the fridge and bring them here. Attempt to juggle them.
+Help clean up eggs if needed. (x2)
+
+// Tied Up
+Go to the supply room and get rope. Then, come here, sit in a chair, and allow someone to tie you to the chair, tightly.
+Find the person sitting in a chair with rope. Tie them to the chair.
+Find the person tied to the chair, lift them and the chair (you will have help) and carry them and the chair outside, Jewish wedding style, to the nearest bus stop. Leave them there and return to the party. (x6)
+Go over to the snack table and have a cookie. Then, take a second cookie and go wait outside at the nearest bus stop with a friend. Pretend to wait for the bus, send a text message, listen to your tunes, etc. Wait for someone tied to a chair to arrive. When they arrive, act casually. After two minutes, feed the person the cookie. Then, untie them and return to the party.
+
+// Exquisite Poem
+Start a poem on the whiteboard.
+Add a line to the poem on the whiteboard. (20m)
+Add a line to the poem on the whiteboard. (40m)
+Add a line to the poem on the whiteboard. (60m)
+Add a line to the poem on the whiteboard. (80m)
+Add a line to the poem on the whiteboard. (100m)
+Add a line to the poem on the whiteboard. (120m)
+Add a final line to the poem on the whiteboard. (140m)
+
+// Egg Baby
+Go to the supply room and find an egg and a marker. Bring them back and let someone find you.
+Find the person with an egg. Together, draw a face on the egg and name it. Treat the egg as a newborn baby, and go on a stroll. Be sure to show off your "baby" to passerby.
+Find a couple walking around with an egg and surround them, making chicken noises and flapping your chicken wings. Ask them what name the egg has. Tell them about the names and ages of your eggs. Continue to make chicken noises. You will be joined by other "chickens". (x3)
+Join the chickens and flap. You are a pigeon. Make pigeon cooing noises. Then, fly off together as a flock. (x4)
+
+risky intimate // Eye Gazing
+Find 2 chairs and a table. Place the 2 chairs on either side of the table in an obvious spot. Sit in one of the chairs and wait for someone to sit across from you - it will happen soon. Sit silently for as long or as short a time as you would like. Focus on the space between you. Do NOT talk to the person across from you. Do try making eye contact. Try not to smile. Just focus on the space between you. When you are done sitting, return to the party.
+There is a person sitting at a table, with two chairs. If one of the chairs is empty, go sit down. If the chairs are both full, wait and watch. A line may form. When you do sit down, sit silently and focus on the space between you and the person across the table from you. Do NOT talk to the person across from you. Try not to smile. Do try making eye contact. Sit there for as long as you like. When you feel done sitting, return to the party. (x5)
+
+// Story Time
+Go to the supply room and get a story book. Bring the book here, sit in the middle of the room, and read a story for 8 minutes. Start off by reading aloud.
+Join the person reading in the middle of the room. They are reading a story for you. Ask them many questions. (x5)
+
+// You Are Wonderful As You Are
+Go to the supply room and take one of the placards labeled "window people". Stand at the window in number order, and press the placards to the window and wait 3 minutes. Make friends with the people in line while you are holding up your card. (x6)
+Do you have a friend at the party who is truly wonderful, but they don't know it? Or, a friend who would really love being told that? Tell them you want to show them something and take them over to the window outside this room. (x4) (+2m)
+
+rolling kickoff seated // Old Mac Donald
+Can you see the couch? Imagine a cow on the couch. Walk to the couch softly saying "mooo". Change what you're saying as appropriate. (x4) (+2m)
+Go sit on the couch. After you hear the "mooing" start, begin singing "Old MacDonald". Order of animals: cow, dog, pteradactyl, and then improvise one or two more.
+
+hippie // Blindfolded Meditation
+Get a blindfold from supply room, come here, and find a place you can sit comfortably for several minutes. Put on your blindfold, and wait for instructions (x6)
+Take the singing bowl and meditation instructions from the supply room, and come here. When you see people gathered with blindfolds, lead them through the meditation instructions, then thank everyone and tell them to remove their blindfolds.
+
+// Poetry
+Go to the supply room and get a poetry book. Ask someone at the party if you can read them a poem in exchange for answering the "question of the day": "What are you willing to let go of that no longer serves you?" Don't rush the answer. If they seem like they made up an answer quickly, encourage them to close their eyes for a minute, take a deep breath, and really think about it. When they answer well, write your name on this card; if there are fewer than five names, pass this card and the book to that person.
+
+foreshadowing rolling intimate // Links (x3)
+Interlink your fingers, then look for the other person with interlinked fingers. Introduce yourself to them in a whisper, and continuing to whisper, find something that links the two of you: a shared ideal, a friend in common, somewhere you've both lived, or something you've both done. Once found, write it on this card and leave it in the top drawer under the television. (x2)
+
+// Vogue
+Go to the prop room and get a bell. then bring it here. Ring the bell. Wait. Ring the bell again. Repeat several times.
+Every time you hear a bell, strike a new pose and freeze. (x6)
+There is a vignette going on with posing dancers. Every time a bell is rung, yell out a new theme for the poses. Ideas: Battle, love scene, horror flick, dinosaurs...
+
+risky intimate // Memorial
+You are dead (temporarily). Lie down and fold your arms over your chest. If needed, answer questions.
+When you see someone lying down, lead a memorial service for them. Introduce them (you may ask them questions if needed) and call for testimonials from those gathered. After 5 testimonials, close the memorial by thanking everyone involved.
+When someone asks for testimonials, raise your hand. When called upon, say something nice about the deceased. If you don't know them, either make something up or find someone who does to pass this card to. (x5)
+
+// Diagram
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you.
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+1m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+2m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+3m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+4m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+5m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+6m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+7m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+8m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+9m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+10m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+11m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+12m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+13m)
+Find the large whiteboard with Thomas's name in the center. If you met Thomas directly, add your name and draw a line connecting you, with a word describing how you met. If you met them through someone else, first draw that name and connection, then draw how you connected to the person who connected you. (+14m)

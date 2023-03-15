@@ -1,0 +1,92 @@
+{
+  "n_attendees": 30,
+  "n_per_hour_per_person": 2,
+  "start_time": "1:15pm",
+  "segments": [
+      {
+        "duration": "75m",
+        "tags": ["kickoff"]
+      },
+      {
+        "duration": "90m",
+        "tags": ["rolling"]
+      },
+      {
+        "duration": "30m",
+        "tags": ["peak"]
+      },
+      {
+        "duration": "60m",
+        "tags": ["rolling"]
+      },
+      {
+        "duration": "30m",
+        "tags": ["finale"]
+      }
+  ],
+  "sites": [
+    {
+      "name": "at the couch by the stained glass",
+      "tags": ["inside", "seated"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 8
+    },
+    {
+      "name": "in the living room at the table",
+      "tags": ["inside", "seated"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 12
+    },
+    {
+      "name": "in the kitchen",
+      "tags": ["inside"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 3
+    },
+    {
+      "name": "in the top floor cuddle space",
+      "tags": ["intimate", "inside"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 8
+    },      
+    {
+      "name": "in the top floor lounge area",
+      "tags": ["inside", "seated"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 8
+    },      
+    {
+      "name": "inside the treehouse",
+      "tags": ["inside", "intimate"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 3
+    },
+    {
+      "name": "in the yoga studio",
+      "tags": ["inside"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 20
+    },
+    {
+      "name": "outside landing atop of the west stairs",
+      "tags": ["outside"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 3
+    },
+    {
+      "name": "outside at the table",
+      "tags": ["outside", "seated"],
+      "start_time": "1:00pm",
+      "end_time": "6:00pm",
+      "capacity": 20
+    }
+  ]
+}

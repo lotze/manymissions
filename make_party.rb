@@ -154,15 +154,15 @@ end
 
 
 
-party 'db', 30, DateTime.parse('7:30pm')..DateTime.parse('9:30pm'), \
-  starts: '7:30pm',
-  ends: '9:30pm',
+party 'birthday_2023_missions.txt', 30, DateTime.parse('1:00pm')..DateTime.parse('6:00pm'), \
+  starts: '1:00pm',
+  ends: '6:00pm',
   sites: {
     "in the kitchen" => { starts: '7:30pm', every: '10m', tags: %w{ intimate anywhere } },
-    "by the big white wall" => { starts: '7:30pm', every: '10m', tags: %w{ large anywhere } },
+    "in the yoga studio" => { starts: '7:30pm', every: '10m', tags: %w{ large anywhere } },
     "by the downstairs bathroom door" => { starts: '7:30pm', every: '10m', tags: %w{ rendezvous } },
-    "by the front door" => { tags: ['entryway'] },
-    "seated on the couches" => { tags: ['seated'] }
+    "on the landing at the top of the west stairs" => { tags: ['entryway'] },
+    "seated on the couch by the stained glass" => { tags: ['seated'] }
   },
   arc: [
     [0.1, 'foreshadowing'],
